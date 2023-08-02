@@ -105,7 +105,7 @@ try {
                                 <th scope="col">Fecha</th>
                                 <th scope="col">Num prestamo</th>
                                 <th scope="col">Prestamo</th>
-                                <th scope="col">Fecha de abono</th>
+                                <th scope="col">Fecha de abonos</th>
                                 <th scope="col">Abono</th>
                                 <th scope="col" colspan="2">Option</th>
                             </tr>
