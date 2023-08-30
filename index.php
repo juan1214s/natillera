@@ -79,13 +79,13 @@ try {
 
             <div class="card">
                 <div class="card-header">
-                    Natillera " Mosquera"
+                    Natillera "Mosquera"
                 </div>
 
 
                 <div class="col-md-12">
                     <form class="p-4" action="consultarCC.php" method="GET">
-                        <label for="nombre">Cedula</label>
+                        <label for="nombre">Identificaciòn</label>
                         <input type="text" id="cedula" name="id">
                         <input type="submit" class="btn btn-primary" value="Consultar">
                     </form>
