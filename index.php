@@ -18,7 +18,8 @@ $id = isset($_POST['id']) ? $_POST['id'] : null;
 // OR using the null coalescing operator (PHP 7.0+)
 $id = $_POST['id'] ?? null;
 
-// OR using the newer null coalescing assignment (PHP 7.4+) me toco hacer esto para guardar el commit
+// OR using the newer null coalescing assignment (PHP 7.4+) me toco hacer esto para guardar el commit comitt
+
 $id ??= null;
 
 // Rest of your code...
