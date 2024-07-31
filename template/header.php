@@ -16,7 +16,7 @@
             <div class = "col-md">
                 <header class = "py-3">
                     <h3 class = "text-center">
-                     <a href="index.php">Natillera mosquera </a>   
+                     <a href="index.php">Natillera JUAN MANUEL </a>   
                     </h3>
                 </header>
             </div>
